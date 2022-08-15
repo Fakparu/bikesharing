@@ -3,7 +3,7 @@ Visualizing bike-sharing data with Tableau
 # Overview of the statistical analysis:
 In the project, we used Tableau to visualize bike-sharing data. Data is from the Cit Bike program in New York City which includes a variety of fields. The purpose is to understand the total number of bike riders, in New York, the gender who uses the bike most, peak period in weekdays, top starting and ending locations and how the bikes are utilized.
 # Results:
-o	Record show that the total number of trips made by the biker is 2,344,224
+The result from the statistical analysis are as follows
 o	In checking out by gender, the graph shows that male gender is the highest, then the female befor unknown.
 ![image](https://user-images.githubusercontent.com/105121697/184582991-9b10a8e3-e832-4496-84d4-f2090bf9caeb.png)
 
@@ -26,4 +26,10 @@ o	Checkout times for users gets to the peak in the first ten  minutes but drops 
 ![image](https://user-images.githubusercontent.com/105121697/184584341-59bbeb6b-8274-4fdb-b7ff-759974e94f43.png)
 
 # Summary:
-o	There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+o	In summary record showed that the total number of trips made is 2,344,224. In August, the top riding hours discovered,the gender who uses bike more determined, the top starting locations, top ending locations and also bike utilization analysed.
+
+o	Based on the bar chart, the top riding hours in during August in NewYork City is 5:00PM to 7:00PM.
+![image](https://user-images.githubusercontent.com/105121697/184584874-02d86791-1500-4ebb-bc8c-baf97dee3dd9.png)
+
+o	The bubble shows bike utilization levels. It shows how much the bike is utilised.The bubble is larger if a bike has a higher utilization level. 
+![image](https://user-images.githubusercontent.com/105121697/184585240-8991e3af-6637-40f8-a578-3b0df5145794.png)
