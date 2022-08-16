@@ -1,5 +1,9 @@
 # Bikesharing
 Visualizing bike-sharing data with Tableau
+[link to dashboard](LINK GOES HERE)
+[link to dashboard](LINK GOES HERE "link to dashboard")
+
+
 # Overview of the statistical analysis:
 In the project, we used Tableau to visualize bike-sharing data. Data is from the Cit Bike program in New York City which includes a variety of fields. The purpose is to understand the total number of bike riders, in New York, the gender who uses the bike most, peak period in weekdays, top starting and ending locations and how the bikes are utilized.
 # Results:
