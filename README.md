@@ -5,6 +5,7 @@ Visualizing bike-sharing data with Tableau
 [link to Tableau Public](https://public.tableau.com/app/profile/fidelia1205#!/?newProfile=&activeTab=0)
 
 [link to NYC CitiBike Story](https://public.tableau.com/app/profile/fidelia1205/viz/NYCCityBikeChallenge_16602325007590/NYCCitiBikeStory?publish=yes)
+[link to dashboard](LINK GOES HERE "[link to dashboard](https://public.tableau.com/app/profile/fidelia1205/viz/NYCCityBikeChallenge_16602325007590/CheckoutTimesforUsers?publish=yes)))")
 
 [link to 'Checkout Times for Users']([LINK GOES HERE](https://public.tableau.com/app/profile/fidelia1205/viz/NYCCityBikeChallenge_16602325007590/CheckoutTimesforUsers?publish=yes))
 [link to 'Checkout Times by Gender']([LINK GOES HERE](https://public.tableau.com/app/profile/fidelia1205/viz/NYCCityBikeChallenge_16602325007590/CheckoutTimesbyGender?publish=yes))
