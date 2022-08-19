@@ -8,10 +8,11 @@ Visualizing bike-sharing data with Tableau
 
 
 # Overview of the statistical analysis:
-In the project, we used Tableau to visualize bike-sharing data. Data is from the Cit Bike program in New York City which includes a variety of fields. The purpose is to understand the total number of bike riders, in New York, the gender who uses the bike most, peak period in weekdays, top starting and ending locations and how the bikes are utilized.
+In the project, we used Tableau to visualize bike-sharing data. Data is from the Citi Bike program in New York City which includes a variety of fields. The purpose is to understand the total number of bike riders, in New York, the gender who uses the bike most, peak period in weekdays, top starting and ending locations and how the bikes are utilized.
 # Results:
 The result from the statistical analysis are as follows
-o	In checking out by gender, the graph shows if 0,1 and hours are selected, there is an outburst to the peak it drops sharply. The male gender who ride bikes get to the fastest, then the female before unknown.
+
+o	In checking out by gender visualization, the graph shows that if 0,1 and 2 hours are selected, there is an outburst to the peak by the number of bikes and sharp drop too. The male gender who ride bikes was the highest, then the female before unknown.
 ![image](https://user-images.githubusercontent.com/105121697/185542825-d0f1633e-edb5-420e-8950-93d683c62179.png)
 
 o	Overall,  there are more male bikers, more than female bikers at the peak hour, 9:00 AM
