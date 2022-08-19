@@ -1,6 +1,9 @@
 # Bikesharing
 Visualizing bike-sharing data with Tableau
 
+
+[link to Tableau Public](https://public.tableau.com/app/profile/fidelia1205#!/?newProfile=&activeTab=0)
+
 [link to NYC CitiBike Story](https://public.tableau.com/app/profile/fidelia1205/viz/NYCCityBikeChallenge_16602325007590/NYCCitiBikeStory?publish=yes)
 
 
