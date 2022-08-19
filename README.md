@@ -6,6 +6,11 @@ Visualizing bike-sharing data with Tableau
 
 [link to NYC CitiBike Story](https://public.tableau.com/app/profile/fidelia1205/viz/NYCCityBikeChallenge_16602325007590/NYCCitiBikeStory?publish=yes)
 
+[link to 'Checkout Times for Users'](LINK GOES HERE)
+[link to 'Checkout Times by Gender'](LINK GOES HERE)
+[link to 'Trips by Weekday per hour'](LINK GOES HERE)
+[link to 'Trips by Gender (Weekday Per Hour)'](LINK GOES HERE)
+[link to 'User Trips by Gender by Weekday'](LINK GOES HERE)
 
 # Overview of the statistical analysis:
 In the project, we used Tableau to visualize bike-sharing data. Data is from the Cit Bike program in New York City which includes a variety of fields. The purpose is to understand the total number of bike riders, in New York, the gender who uses the bike most, peak period in weekdays, top starting and ending locations and how the bikes are utilized.
